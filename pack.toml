@@ -1,0 +1,10 @@
+[custom.all.itb]
+type = "local"
+path = "."
+ipkg = "itb.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.itb-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
